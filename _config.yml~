@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "ZhangJiChao's Blogs About Him Life And Research"
 title_separator          : "-"
 name                     : "ZhangJiChao"
 description              : "An amazing website."
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  name             : "Zhang JiChao"
+  avatar           : "/assets/images/bio-photo.jpeg"
+  bio              : "I am an student from China"
   location         : "Somewhere"
   email            :
   uri              :
