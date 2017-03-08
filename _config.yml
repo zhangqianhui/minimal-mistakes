@@ -11,10 +11,10 @@ title                    : "ZhangJiChao's Blogs About Him Life And Research"
 title_separator          : "-"
 name                     : "ZhangJiChao"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
+url                      : "https://zhangqianhui.github.io"
+baseurl                  : #"/blog"
+repository               : # "zhangqianhui/minimal-mistakes"
+teaser                   : "/assets/images/main.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -80,8 +80,8 @@ author:
   name             : "Zhang JiChao"
   avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "I am an student from China"
-  location         : "Somewhere"
-  email            :
+  location         : "China JiNan"
+  email            : "zhang163220@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/zhangqianhui"
   google_plus      :
   keybase          :
   instagram        :
