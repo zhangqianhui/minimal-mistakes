@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "ZhangJiChao"
 description              : "An amazing website."
 url                      : "https://zhangqianhui.github.io"
-baseurl                  : "/blog"
+baseurl                  : #"/blog"
 repository               : # "zhangqianhui/minimal-mistakes"
 teaser                   : "/assets/images/main.jpg"
 # breadcrumbs            : false # true, false (default)

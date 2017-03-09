@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "ZhangJiChao's Blogs About Him Life And Research"
+title                    : "ZhangJiChao's Blogs About His Life And Research"
 title_separator          : "-"
 name                     : "ZhangJiChao"
 description              : "An amazing website."
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Zhang JiChao"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "I am an student from China"
+  bio              : "I am a student from China"
   location         : "China JiNan"
   email            : "zhang163220@gmail.com"
   uri              :
